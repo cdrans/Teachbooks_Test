@@ -30,7 +30,7 @@ Inline equation:
 The displacement can be found using the equation $s = v \cdot t$.
 
 Coloured equation:
-$$ \class{blue}{\sum}_{n=1}^\infty $$
+$$\class{blue}{\sum}_{n=1}^\infty$$
 
 Latex equation
 \begin{align*} 
