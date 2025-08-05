@@ -9,7 +9,9 @@ align: center
 ```
 
 ## Section Title 1
-text
+Testing adding a video:
+```{video} https://youtu.be/mbdvDdjRcfU?si=n7VRIKGzYpnozztD
+```
 
 ## Section Title 2
 text
