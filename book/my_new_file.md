@@ -36,11 +36,7 @@ $$\class{hyphen-color}{\sum}_{n=1}^\infty$$
 Latex equation
 ```{math}
 :label: my_label
-\begin{align*} 
-    &\sum {\mathop {{F_x}}\limits^{ \to  + } :{A_x}}  = 0\\
-    &\sum {\mathop {{F_y}}\limits^{ \uparrow  + } :{A_y} + {C_y} - 10~kN}  = 0\\
-    &\sum {\mathop {{M_A}}\limits^{ccw + } : - \left( {10~kN} \right)} \left( L \right) + \left( {{C_y}} \right)\left( {2L} \right) = 0
-\end{align*}
+F=ma
 ```
 
 
