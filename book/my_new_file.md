@@ -31,7 +31,7 @@ The displacement can be found using the equation $s = v \cdot t$.
 
 Coloured equation:
 $$\class{hyphen-color}{\sum}_{n=1}^\infty$$
-&&\green{F=ma}$$
+$$\green{F=ma}$$
 
 Latex equation
 ```{math}
