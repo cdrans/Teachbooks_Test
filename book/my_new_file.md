@@ -13,7 +13,24 @@ Testing adding a video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mbdvDdjRcfU?si=KedAUcEnZUhlF04l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Section Title 2
-text
+Testing types of formulas:
+
+Block equation:
+$$ F_{res} = m \cdot a $$ 
+
+Block equation with an error:
+$$ E = m \ccdot c^2 $$
+
+Math Block:
+```{math}
+v = a \cdot t
+```
+
+Inline equation:
+The displacement can be found using the equation $s = v \cdot t$.
+
+Coloured equation:
+$$ \class{hyphen-color}{\sum}_{n=1}^\infty $$
 
 ### Subsection Title 1
 text
