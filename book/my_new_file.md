@@ -30,13 +30,12 @@ Inline equation:
 The displacement can be found using the equation $s = v \cdot t$.
 
 Coloured equation:
-$$\class{hyphen-color}{\sum}_{n=1}^\infty$$
 $$\green{F=ma}$$
 
 Latex equation
 ```{math}
 :label: my_label
-F=ma
+F = m a
 ```
 
 
