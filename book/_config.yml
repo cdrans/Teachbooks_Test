@@ -40,7 +40,11 @@ sphinx:                                              # Options passed on to the 
       chtml: {
         mtextInheritFont: true                       # To typeset text within math prettier
       }
-      tud_change_logo: false                         # Set to true if you want to use the TU Delft logo in mathjax
+    tud_change_logo: false                         # Set to true if you want to use the TU Delft logo in mathjax
+    named_colors_include_CSS: true                 # default value
+    named_colors_dark_and_light: true              # default value
+    named_colors_saturation: 1.5                   # default value
+    named_colors_custom_colors: None
   extra_extensions:                                  # Gives you a starter package of extensions to use in your book
     - jupyterbook_patches                            # Various patches by TeachBooks: https://github.com/TeachBooks/JupyterBook-Patches
     - download_link_replacer                         # Allows you to replace and add downloadable files to a page header: https://teachbooks.io/manual/external/Download-Link-Replacer/README.html
