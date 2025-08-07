@@ -18,8 +18,12 @@ Testing types of formulas:
 Block equation:
 $$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}$$
 
+Block equation alternative notation
+\[I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}\]
+
 Block equation with an error:
 $$E = m \ccdot c^2$$
+
 
 Math Block:
 ```{math}
