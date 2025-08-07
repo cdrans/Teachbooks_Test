@@ -18,8 +18,8 @@ Testing types of formulas:
 Block equation:
 $$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}$$
 
-Block equation alternative notation
-\[I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}\]
+Block equation with number
+$$\[$$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}$$ (eqn_label)
 
 Block equation with an error:
 $$E = m \ccdot c^2$$
@@ -42,7 +42,19 @@ Latex equation
 F = m a
 ```
 
+begin mode no number:
+$$\begin{align*} 
+    &\sum {\mathop {{F_x}}\limits^{ \to  + } :{A_x}}  = 0\\
+    &\sum {\mathop {{F_y}}\limits^{ \uparrow  + } :{A_y} + {C_y} - 10~kN}  = 0\\
+    &\sum {\mathop {{M_A}}\limits^{ccw + } : - \left( {10~kN} \right)} \left( L \right) + \left( {{C_y}} \right)\left( {2L} \right) = 0
+\end{align*}$$
 
+with number:
+$$\begin{align} 
+    &\sum {\mathop {{F_x}}\limits^{ \to  + } :{A_x}}  = 0\\
+    &\sum {\mathop {{F_y}}\limits^{ \uparrow  + } :{A_y} + {C_y} - 10~kN}  = 0\\
+    &\sum {\mathop {{M_A}}\limits^{ccw + } : - \left( {10~kN} \right)} \left( L \right) + \left( {{C_y}} \right)\left( {2L} \right) = 0
+\end{align}$$
 ### Subsection Title 1
 text
 
