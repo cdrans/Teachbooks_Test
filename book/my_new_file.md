@@ -19,7 +19,7 @@ Block equation:
 $$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}$$
 
 Block equation with number
-$$\[$$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}$$ (eqn_label)
+$$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}$$ (eqn_label)
 
 Block equation with an error:
 $$E = m \ccdot c^2$$
