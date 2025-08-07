@@ -15,3 +15,6 @@ sphinx-tudelft-theme
 
 # Now list the packages you want to download directly from GitHub
 git+https://github.com/TeachBooks/Sphinx-Thebe
+
+--extra-index-url https://test.pypi.org/simple/
+teachbooks_software_project_extension_name==0.1.3
